@@ -54,7 +54,7 @@ Plataforma sofisticada com UI/UX excepcional, sistema de membership e cultura it
 <tr>
 <td width="50%">
 
-#### [Personal Portfolio](https://github.com/thiagodifaria/personal)
+#### [Personal](https://github.com/thiagodifaria/personal)
 **Site Pessoal e Portfólio Profissional**
 
 Website pessoal apresentando projetos, experiência técnica e trajetória profissional.
@@ -64,14 +64,6 @@ Website pessoal apresentando projetos, experiência técnica e trajetória profi
 
 </td>
 <td width="50%">
-
-#### [Sphinx](https://github.com/thiagodifaria/Sphinx)
-**Plataforma Autônoma de Engenharia de Nuvem**
-
-Plataforma de engenharia de nuvem com IA para observabilidade, otimização e geração de IaC.
-
-**Stack:** Python, FastAPI, Terraform, Prometheus  
-**Features:** Gemini AI, detecção de anomalias, TUI
 
 </td>
 </tr>
@@ -141,37 +133,6 @@ Servidor com implementações criptográficas otimizadas em assembly e provider 
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
 
-### Stack Detalhada
-
-#### Backend Specialist
-```python
-expertise = {
-    "languages": ["Python", "TypeScript", "C++", "Go", "Rust", "Ruby", "COBOL", "JavaScript"],
-    "frameworks": ["FastAPI", "Django", "Flask", "pybind11", "Express.js"],
-    "databases": ["PostgreSQL", "SQLite", "MongoDB", "Redis", "MySQL"],
-    "architecture": ["Clean Architecture", "DDD", "Microservices", "Event-Driven"],
-    "ai_ml": ["TensorFlow", "Scikit-learn", "Transformers", "Prophet", "PyTorch"]
-}
-```
-
-#### Full-Stack Capabilities
-```typescript
-const fullstack = {
-  frontend: {
-    frameworks: ["Next.js", "React", "Vite"],
-    styling: ["Tailwind CSS", "Shadcn UI", "Chakra UI", "CSS3", "HTML5"],
-    languages: ["TypeScript", "JavaScript"]
-  },
-  infrastructure: {
-    containerization: ["Docker", "Docker Compose"],
-    monitoring: ["Prometheus", "Grafana", "Loki", "Tempo"],
-    apis: ["REST", "GraphQL"],
-    security: ["JWT", "bcrypt", "OpenSSL"]
-  },
-  tools: ["Postman", "Git", "Linux", "CMake", "Terraform"]
-}
-```
-
 ---
 
 ## Contribuições no GitHub
@@ -180,11 +141,7 @@ const fullstack = {
   
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thiagodifaria&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thiagodifaria&theme=tokyonight&hide_border=true)
-  
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagodifaria&layout=compact&theme=tokyonight&hide_border=true&langs_count=10)
-  
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=thiagodifaria&theme=tokyo-night&hide_border=true)
   
 </div>
 
