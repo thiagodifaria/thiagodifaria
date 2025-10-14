@@ -143,13 +143,53 @@ In professional work environments, I typically work with:
 
 ## GitHub Contributions
 
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thiagodifaria&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagodifaria&layout=compact&theme=tokyonight&hide_border=true&langs_count=10)
-  
-</div>
+```python
+github_stats = {
+    "total_commits": "282+",
+    "total_stars_earned": "17+",
+    "total_prs": "0",
+    "total_issues": "0",
+    "contributions_last_year": "282+",
+    "active_streak": "consistent"
+}
+
+most_used_languages = {
+    "Python": "35.00%",
+    "TypeScript": "24.83%",
+    "C++": "23.65%",
+    "Go": "7.21%",
+    "Shell": "2.44%",
+    "Rust": "1.82%",
+    "Java": "1.69%",
+    "C": "1.27%",
+    "PLpgSQL": "1.04%",
+    "CMake": "1.03%"
+}
+
+projects = {
+    "featured": [
+        "LexiconCLI",
+        "Tesori-di-Bacco", 
+        "Personal",
+        "HTTPS-Server",
+        "Sphinx",
+        "SchemaAPI",
+        "Nexus-Engine",
+        "Technical-Knowledge",
+        "Technical-Research",
+        "Benchmark",
+        "MoodAPI",
+        "Begriff",
+        "Codex",
+        "Caninana",
+        "Hermes",
+        "thiagodifaria"  
+    ],
+    "repositories": "21",
+    "public_repos": "16",
+    "private_repos": "5"
+}
+```
 
 ---
 
