@@ -8,16 +8,16 @@
   
 </div>
 
-## Apresentação
+## Introduction
 
-Desenvolvedor backend especialista em Python de Belo Horizonte/MG, com entusiasmo por criar aplicações únicas, inovadoras e eficientes. Minha abordagem combina design estético com elegância funcional, sempre focando em Clean Architecture e código limpo.
+Backend specialist in Python from Belo Horizonte/MG, with enthusiasm for creating unique, innovative and efficient applications. My approach combines aesthetic design with functional elegance, always focusing on Clean Architecture and clean code.
 
-### Especialização
+### Specialization
 
-- **Backend-First Development**: Especialista em Python com foco em arquiteturas escaláveis
-- **Clean Architecture & DDD**: Aplicação rigorosa de padrões empresariais
-- **AI/ML Engineering**: Experiência com NLP, Machine Learning e Data Science
-- **Cybersecurity**: Conhecimento em sistemas antivírus e segurança cibernética
+- **Backend-First Development**: Python specialist focused on scalable architectures
+- **Clean Architecture & DDD**: Rigorous application of enterprise patterns
+- **AI/ML Engineering**: Experience with NLP, Machine Learning and Data Science
+- **Cybersecurity**: Knowledge in antivirus systems and cybersecurity
 
 ---
 
