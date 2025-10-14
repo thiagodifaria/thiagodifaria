@@ -4,7 +4,7 @@
   
   ![Header](https://img.shields.io/badge/Backend_Specialist-Python-3776ab?style=for-the-badge&logo=python&logoColor=white)
   ![Location](https://img.shields.io/badge/Belo_Horizonte,_MG-Brazil-green?style=for-the-badge)
-  ![University](https://img.shields.io/badge/PUC_Minas-Computer_Science-blue?style=for-the-badge)
+  ![University](https://img.shields.io/badge/PUC_Minas-Analysis_and_System_Development-blue?style=for-the-badge)
   
 </div>
 
