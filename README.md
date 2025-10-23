@@ -145,11 +145,11 @@ In professional work environments, I typically work with:
 
 ```python
 github_stats = {
-    "total_commits": "282+",
+    "total_commits": "293+",
     "total_stars_earned": "17+",
     "total_prs": "0",
     "total_issues": "0",
-    "contributions_last_year": "282+",
+    "contributions_last_year": "293+",
     "active_streak": "consistent"
 }
 
@@ -164,30 +164,6 @@ most_used_languages = {
     "C": "1.27%",
     "PLpgSQL": "1.04%",
     "CMake": "1.03%"
-}
-
-projects = {
-    "featured": [
-        "LexiconCLI",
-        "Tesori-di-Bacco", 
-        "Personal",
-        "HTTPS-Server",
-        "Sphinx",
-        "SchemaAPI",
-        "Nexus-Engine",
-        "Technical-Knowledge",
-        "Technical-Research",
-        "Benchmark",
-        "MoodAPI",
-        "Begriff",
-        "Codex",
-        "Caninana",
-        "Hermes",
-        "thiagodifaria"  
-    ],
-    "repositories": "21",
-    "public_repos": "16",
-    "private_repos": "5"
 }
 ```
 
