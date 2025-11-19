@@ -141,29 +141,19 @@ In professional work environments, I typically work with:
 
 ---
 
-## GitHub Contributions
+## GitHub Stats
 
 ```python
-github_stats = {
-    "total_commits": "293+",
-    "total_stars_earned": "17+",
-    "total_prs": "0",
-    "total_issues": "0",
-    "contributions_last_year": "293+",
-    "active_streak": "consistent"
-}
-
 most_used_languages = {
-    "Python": "35.00%",
-    "TypeScript": "24.83%",
-    "C++": "23.65%",
-    "Go": "7.21%",
-    "Shell": "2.44%",
-    "Rust": "1.82%",
-    "Java": "1.69%",
-    "C": "1.27%",
-    "PLpgSQL": "1.04%",
-    "CMake": "1.03%"
+    "Python",
+    "TypeScript",
+    "C++",
+    "Go",
+    "Shell",
+    "Rust",
+    "Java",
+    "C",
+    "Erlang"
 }
 ```
 
