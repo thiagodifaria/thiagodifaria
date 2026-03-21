@@ -14,7 +14,7 @@ I build systems, APIs, and full products with attention to performance, maintain
 
 **Languages:** Python, Go, TypeScript, JavaScript, C++, C, Rust, Java, Ruby, Erlang, Elixir, COBOL, Assembly, Shell  
 **Backend:** FastAPI, Django, Flask, Spring Boot, REST APIs, GraphQL, PostgreSQL, Redis, SQLite, MySQL, MongoDB  
-**Frontend:** React, Next.js, TypeScript, Vite, Tailwind CSS, Chakra UI, Astro, Nest.Js 
+**Frontend:** React, Next.js, TypeScript, Vite, Tailwind CSS, Chakra UI, Astro, Nest.Js     
 **Other:** Docker, Linux, Git, AI/ML, System Architecture, Clean Architecture, DDD
 
 ## Contact
